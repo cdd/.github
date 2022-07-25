@@ -1,2 +1,2 @@
 # .github
-Default community health files
+Default repository files
